@@ -38,7 +38,7 @@ const Header = ({fixBg, style}) => {
                     <Menu />
                 </div>
                 <div className='col-2 d-flex justify-content-end'>
-                    <CallBtn />
+                    ka
                 </div>
             </div>
         </div>

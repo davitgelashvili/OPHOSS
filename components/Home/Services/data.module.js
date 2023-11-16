@@ -1,7 +1,12 @@
 module.exports = [
     {
         title: 'Web Development',
-        body: `ვწერთ კოდს და ვიყენებთ ისეთ პროგრამირების ენებს როგორცი არის JAVASCRIPT და PHP. წინა მხარე (Front-end) დეველოპერები იყენებენ: Reat.Js, Next.Js. პროგრამისტები (Back-end) დეველოპერები მუშაობენ Node.Js-ზე და laravel-ზე.`
+        body: `
+        ჩვენ ვქმნით თქვენზე მორგებულ ვებ პლატფორმებს. 
+        ophoss digital-ი მზად არის  
+        გადაჭრას ნებისმიერი სირთულის პრობლემა და შექმნას ვებ პლატფორმები.
+        ophoss digital-ი იყინებს პროგრამირების საკმაოდ ცნობილ ენებს: REACT.JS, NODE.JS, PHP, LARAVEL,
+        `
     },
     {
         title: 'UI / UX Design',
