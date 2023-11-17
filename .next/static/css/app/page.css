@@ -1,0 +1,382 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Header/Header.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;700&display=swap");
+.Header_header__1RJ5C {
+  width: 100%;
+  height: 70px;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+.Header_header__logo__W3BBN {
+  margin-right: 24px;
+}
+.Header_header__logo__W3BBN h1 {
+  margin: 0;
+  font-family: "Maven Pro";
+  font-size: 24px;
+}
+.Header_header__logo__W3BBN span {
+  margin: 0 4px;
+  font-size: 16px;
+}
+.Header_header__menu__6E_NM {
+  margin: 0;
+  padding: 0;
+}
+.Header_header__menu--item__RnvWF {
+  list-style: none;
+}
+.Header_header__menu--link__lYfwj {
+  padding: 6px 12px;
+  text-decoration: none;
+}
+.Header_header__contact__ZiLsk {
+  list-style: none;
+}
+.Header_header__contact--btn__HnBsV {
+  background-color: #484965;
+  padding: 11px 22px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+.Header_header__contact--btn__HnBsV svg {
+  width: 20px;
+  height: 20px;
+  margin-right: 7px;
+  fill: #fff;
+}
+.Header_header__contact--btn__HnBsV span {
+  color: #fff;
+  font-size: 17px;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/About/About.module.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.About_about__JZyGl {
+  display: block;
+  padding: 100px 0;
+}
+.About_about__text__VDlja {
+  display: block;
+}
+.About_about__text--title__6PfNf {
+  margin-bottom: 48px;
+  font-size: 48px;
+}
+.About_about__text--descr__CrMLT {
+  width: 80%;
+  line-height: 20px;
+  font-size: 14px;
+}
+.About_about__text--descr__CrMLT p {
+  margin: 7px 0;
+  font-size: 16px;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/Team/Team.module.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Team_team____PUd {
+  display: block;
+}
+.Team_team__list___a5Fm {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.Team_team__item__hFLBi {
+  width: 100px;
+  margin: 0 15px;
+  padding: 24px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.Team_team__item--cover__ru7td {
+  width: 100%;
+  height: 120px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.Team_team__item--img__MTfUA {
+  width: 100%;
+  height: 100%;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.Team_team__item--title__t38O0 {
+  margin: 0;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+.Team_team__item--position__UEekt {
+  margin-top: 8px;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/Contact/Contact.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Contact_contact__QIq2G {
+  width: 100%;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/Project/Project.module.scss ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Project_project__kjZPo {
+  margin-top: -70px;
+  position: relative;
+}
+.Project_project__item__IHoVP {
+  height: 220px;
+  margin-bottom: 24px;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0px 9px 24px -19px #000;
+}
+.Project_project__item--cover__w4bpA {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+}
+.Project_project__item--img__4FCmB {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 0.5s;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/Services/Services.module.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Services_services__wt4MQ {
+  display: block;
+  position: relative;
+}
+.Services_services__head__kbV1c {
+  padding-top: 100px;
+  text-align: center;
+}
+.Services_services__head--title__pttk4 {
+  font-size: 48px;
+  margin: 0;
+}
+.Services_services__list__6bixU {
+  display: block;
+  margin-top: 48px;
+}
+.Services_services__list__6bixU:hover .Services_services-1__item__ksI89 div {
+  opacity: 0.4;
+}
+.Services_services__list__6bixU:hover .Services_services-1__item__ksI89:hover div {
+  opacity: 1;
+}
+.Services_services__item__VGvL_ {
+  display: flex;
+  align-items: center;
+  padding-bottom: 32px;
+  cursor: pointer;
+}
+.Services_services__item--title__LeOBm {
+  width: 40%;
+  margin-right: 30px;
+  text-align: end;
+}
+.Services_services__item--title_text__HT_5S {
+  font-size: 32px;
+  margin: 0;
+}
+.Services_services__item--desc__mTWTu {
+  width: 40%;
+  margin-left: 30px;
+  font-size: 16px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/SlideShow/SlideShow.module.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.SlideShow_slideshow__wPEDw {
+  width: 100%;
+  min-height: 450px;
+  height: calc(100vh - 70px);
+  padding: 70px 0 140px;
+  position: relative;
+  background-color: #f6f1ed;
+  z-index: 0;
+}
+.SlideShow_slideshow__line__4pd45 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -2;
+  display: flex;
+  border-top: 1px solid #484965;
+  border-right: 1px solid #484965;
+  animation-name: SlideShow_example__XqDuZ;
+  animation-duration: 1.5s;
+  animation-fill-mode: both;
+}
+@keyframes SlideShow_example__XqDuZ {
+  0% {
+    width: 0%;
+    height: 0%;
+  }
+  50% {
+    width: 100%;
+    height: 0%;
+  }
+  100% {
+    width: 100%;
+    height: 100%;
+  }
+}
+.SlideShow_slideshow__line--diagonal__K5aqD {
+  width: 100%;
+  height: 100%;
+  background-color: #484965;
+  -webkit-clip-path: polygon(47% 51%, 47% 52%, 100% 0.2%, 99.8% 0%);
+          clip-path: polygon(47% 51%, 47% 52%, 100% 0.2%, 99.8% 0%);
+}
+.SlideShow_slideshow__line__4pd45::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: block;
+  background-color: #484965;
+  position: absolute;
+  top: -3px;
+  left: 0;
+}
+.SlideShow_slideshow__line__4pd45::after {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: block;
+  background-color: #484965;
+  position: absolute;
+  bottom: 0;
+  right: -3px;
+}
+.SlideShow_slideshow__content__kdxwa {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+}
+.SlideShow_slideshow__text__PKoA5 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.SlideShow_slideshow__text__PKoA5 h1 {
+  font-size: 77px;
+  color: #484965;
+}
+.SlideShow_slideshow__text__PKoA5 h2 {
+  font-size: 54px;
+  color: #484965;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[5].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[5].oneOf[9].use[5]!./components/Home/Work/Work.module.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Work_work__XhWXp {
+  width: 100%;
+  padding-top: 100px;
+  position: relative;
+}
+
+.Work_center__kBiUR {
+  height: 100%;
+  position: absolute;
+  padding-top: 48px;
+  top: 0;
+  left: 50%;
+  transform: "translateX(-50%)";
+}
+
+.Work_text__FuHkC {
+  width: 300px;
+  padding: 30px;
+  font-size: 52px;
+  margin: 0;
+  background-color: #fff;
+  box-shadow: 0px 0px 20px 20px #fff;
+  position: absolute;
+  text-align: center;
+}
+
+.Work_line__es5Cu {
+  width: 1px;
+  height: 100%;
+  display: block;
+  background-color: rgb(230, 230, 230);
+}
+
+.Work_item__THyj8 {
+  width: 100%;
+  height: 98px;
+  position: relative;
+}
+
+.Work_card__pwPoJ {
+  position: absolute;
+  padding: 16px;
+  border: 1px solid rgba(230, 230, 230, 0.7);
+  background-color: rgba(230, 230, 230, 0.3);
+  border-radius: 102px 32px 32px 102px;
+}
+
+.Work_cover__Tl74U {
+  width: 64px;
+  height: 64px;
+  margin: 0 16px 0 0;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  overflow: hidden;
+}
+.Work_cover__Tl74U svg {
+  width: 25px;
+}
+
+.Work_number__Yk3Na {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 16px 0 0;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  overflow: hidden;
+  font-size: 32px;
+}
+
+.Work_title__B2EMU {
+  width: 150px;
+  padding-right: 30px;
+  margin: 0;
+  font-size: 16px;
+  color: #484965;
+}
+
+.Work_list__mQKy9 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}

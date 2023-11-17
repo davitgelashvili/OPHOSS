@@ -8,17 +8,9 @@
 # testing
 /coverage
 
-*
-/*
-/*/
-
 # next.js
-/.next/
+# /.next/
 # /out/
-/app/
-components
-/styles/
-/public/
 
 # production
 /build
