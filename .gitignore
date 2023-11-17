@@ -10,11 +10,7 @@
 
 # next.js
 /.next/
-<<<<<<< HEAD
 /out/
-=======
-#/out/
->>>>>>> main
 
 # production
 /build
