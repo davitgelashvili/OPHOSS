@@ -1,0 +1,41 @@
+.slider {
+    position: relative;
+    padding-top: 100px;
+    background-color: #f6f1ed;
+}
+
+.bg {
+    background-image: url(./../../../public/assets/ecommerce/img/illustrations/hero-bg.png);
+
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    will-change: transform, opacity, filter;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-repeat: no-repeat;
+    z-index: 0;
+}
+
+.cover {
+    width: 100%;
+    position: relative;
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.text {
+    display: block;
+}
+
+.title {
+    font-size: 32px;
+}
