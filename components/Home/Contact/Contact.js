@@ -20,17 +20,17 @@ const Contact = () => {
                         <p>info@ophoss.digital</p>
                     </div>
                     <div className="col-4">
-                        <span>
-                            <Link href={''}>
+                        <span className={`${style['contact-soc']}`}>
+                            <Link href={'https://www.facebook.com/ophoss.digital'} target='_black'>
                                 <LiaFacebookSquare />
                             </Link>
                         </span>
-                        <span>
-                            <Link href={''}> 
+                        <span className={`${style['contact-soc']}`}>
+                            <Link href={'https://www.linkedin.com/company/ophoss/'}  target='_black'> 
                                 <LiaLinkedin />
                             </Link>
                         </span>
-                        <span>
+                        {/* <span>
                             <Link href={''}>
                                 <LiaInstagram />
                             </Link>
@@ -54,7 +54,7 @@ const Contact = () => {
                             <Link href={''}>
                                 <LiaTwitterSquare />
                             </Link>
-                        </span>
+                        </span> */}
                     </div>
                 </div>
             </div>

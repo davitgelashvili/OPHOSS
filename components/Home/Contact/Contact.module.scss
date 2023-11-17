@@ -1,3 +1,15 @@
 .contact {
     width: 100%;
 }
+
+.contact-soc {
+    a {
+        color: #484965;
+        font-size: 18px;
+
+        svg {
+            width: 40px;
+            height: 40px;
+        }
+    }
+}
